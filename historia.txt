@@ -1,5 +1,7 @@
-Esta es una prueba 
+Esta es una prueba desde mi computador 
 
 para saber 
 
-como funciona Git
+como funciona Git,
+
+creando el primer commint. 
