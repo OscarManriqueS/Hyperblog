@@ -5,3 +5,7 @@ para saber
 como funciona Git,
 
 creando el primer commint. 
+
+Agrego otra linea para verificar 
+
+como funciona despues de un reset hard.
